@@ -1308,3 +1308,26 @@
 2021-02-07 18:16:57.6369 Info Adding target FileTarget(Name=allfile)
 2021-02-07 18:16:57.6528 Info Adding target FileTarget(Name=ownFile-web)
 2021-02-07 18:16:57.8126 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=/Users/wes/projects/library-management-system/LightLib.Web/bin/Debug/net5.0/nlog.config
+2022-02-27 10:28:48.2351 Info Message Template Auto Format enabled
+2022-02-27 10:28:48.2552 Info Loading assembly: NLog.Web.AspNetCore
+2022-02-27 10:28:48.2985 Info Adding target FileTarget(Name=allfile)
+2022-02-27 10:28:48.2985 Info Adding target FileTarget(Name=ownFile-web)
+2022-02-27 10:28:48.3169 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\Job\Code\Repo\lightlib-lms\LightLib.Web\bin\Debug\net6.0\NLog.config
+2022-02-27 10:28:48.3283 Info Configuration initialized.
+2022-02-27 10:28:48.3283 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.14.740. Product version: 4.7.14+7b0baf946c6c5541cbd0dc523d2e9e7a582209ba. GlobalAssemblyCache: False
+2022-02-27 10:28:50.1578 Info AppDomain Shutting down. Logger closing...
+2022-02-27 10:28:50.1754 Info Logger has been shut down.
+2022-02-27 10:30:47.9458 Info Message Template Auto Format enabled
+2022-02-27 10:30:47.9458 Info Loading assembly: NLog.Web.AspNetCore
+2022-02-27 10:30:47.9846 Info Adding target FileTarget(Name=allfile)
+2022-02-27 10:30:47.9846 Info Adding target FileTarget(Name=ownFile-web)
+2022-02-27 10:30:48.0041 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\Job\Code\Repo\lightlib-lms\LightLib.Web\bin\Debug\net6.0\NLog.config
+2022-02-27 10:30:48.0041 Info Configuration initialized.
+2022-02-27 10:30:48.0041 Info NLog, Version=4.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 4.7.14.740. Product version: 4.7.14+7b0baf946c6c5541cbd0dc523d2e9e7a582209ba. GlobalAssemblyCache: False
+2022-02-27 10:30:51.8143 Info AppDomain Shutting down. Logger closing...
+2022-02-27 10:30:51.8377 Info Logger has been shut down.
+2022-02-27 10:38:59.6044 Info Message Template Auto Format enabled
+2022-02-27 10:38:59.6308 Info Loading assembly: NLog.Web.AspNetCore
+2022-02-27 10:38:59.7401 Info Adding target FileTarget(Name=allfile)
+2022-02-27 10:38:59.7960 Info Adding target FileTarget(Name=ownFile-web)
+2022-02-27 10:38:59.8258 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=D:\Job\Code\Repo\lightlib-lms\LightLib.Web\bin\Debug\net6.0\nlog.config
